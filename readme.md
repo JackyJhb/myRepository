@@ -21,3 +21,7 @@ git push origin master
 git log  
 git reset --hard commit-id
 git push origin HEAD --force
+
+git stash list
+git stash save "ssasdfa"
+git stash pop
