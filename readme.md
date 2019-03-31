@@ -22,10 +22,8 @@ git log
 git reset --hard commit-id
 git push origin HEAD --force
 
-<<<<<<< Updated upstream
 git stash list
 git stash save "ssasdfa"
 git stash pop
-=======
-git stash save "stash order"
->>>>>>> Stashed changes
+
+git stash clear
