@@ -6,3 +6,5 @@ echo "It's so beautiful!"
 
 
 ls -al ./
+
+git stash save test.bak
